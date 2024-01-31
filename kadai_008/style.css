@@ -1,0 +1,17 @@
+.text{
+    /*css書く*/
+    font-size: 48px;
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    line-height: 10.5;
+    text-decoration: underline;
+    border: solid 3px red;
+    width: 50;
+
+}
+
+#kazari{
+    border: double 3px pink;
+    width: 200;
+
+}
